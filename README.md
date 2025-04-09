@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on different Frontend projects.
 - 📫 How to reach me lutmirapeci@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have always struggled to tie my shoe laces.
 
 <!---
 lutmirapeci/lutmirapeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
